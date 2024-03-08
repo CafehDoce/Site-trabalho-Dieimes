@@ -4,10 +4,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h3 {
-    font-size: 17px;
-    font-family: initial;
-    border: none;
+
+section.logo img{
+    width: 70px;
 }
 
 .menu ul {
@@ -48,3 +47,23 @@ h3 {
     border-color:#fffaf0ff;
     border-style:solid;
 }
+
+#divBusca{
+    background-color:#000000;
+    border-radius:30px;
+    width:300px;
+    left: center;
+    right: 120px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:rgb(252, 252, 252);
+    padding-left:30px;
+    font-style:italic;
+    font-size:15px;
+    border-color: black; 
+    border-radius: 19px;
+    height:20px;
+    width:210px;    
+  }
