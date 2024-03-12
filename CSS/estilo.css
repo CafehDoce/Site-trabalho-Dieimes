@@ -8,6 +8,10 @@ section.logo2 img{
     width: 86px;
 }
 
+.col{
+    margin-top: 20px;
+}
+
 #divBusca{
     background-color:#000000;
     border-radius:30px;
@@ -25,7 +29,13 @@ section.logo2 img{
     border-color:#1C1C1C; 
     border-radius: 19px;
     height: 25px;
-    width: 210px;    
+    width: 210px;
+  }
+
+  h2 {
+    font-size: 30px;
+    padding: 18px;
+    margin-bottom: 0px;
   }
 
 .menu ul {
@@ -36,8 +46,7 @@ section.logo2 img{
     gap: 10px;
     background: #65318C;
     box-shadow: 1px 0px 1.2px 0px #e3e3e3;
-    display: flex;
-    
+    display: flex;   
 }
 
 .menu ul li a {
@@ -63,5 +72,3 @@ section.logo2 img{
     border-color: transparent;
     border-style: solid;
 }
-
-
