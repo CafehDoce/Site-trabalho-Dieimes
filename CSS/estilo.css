@@ -4,38 +4,24 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-section.logo2 img{
-    width: 86px;
+#logo2{
+    width: 15%;   
 }
 
-.col{
-    margin-top: 20px;
+.navbar-custom {
+    background-color: #65318C;
 }
 
-#divBusca{
-    background-color:#000000;
-    border-radius:30px;
-    width:300px;
-    left: center;
-    right: 120px;
-  }
-  
-  #txtBusca{
-    float: left;
-    background-color:rgb(252, 252, 252);
-    padding-left: 26px;
-    font-style: italic;
-    font-size: 15px;
-    border-color:#1C1C1C; 
-    border-radius: 19px;
-    height: 25px;
-    width: 210px;
-  }
+.nav-link{
+    color: #FFFAF0;
+}
+
 
   h2 {
     font-size: 30px;
     padding: 18px;
     margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
 .menu ul {
